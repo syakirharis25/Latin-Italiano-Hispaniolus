@@ -7,8 +7,8 @@ Trying to understand little by little about Latin, the beautiful Italian languag
 3. [Latin.](#latin)
 4. [Italian.](#italian)
 5. [Dante.](#dante)
-6. [Spanish.)(#spanish)
-7. [Influences.)(#influence)
+6. [Spanish.](#spanish)
+7. [Influences.](#influence)
 8. [GitHub notes.](#github)
 
 <a name="introduction"></a>
