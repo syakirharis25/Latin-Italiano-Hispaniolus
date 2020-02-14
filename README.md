@@ -14,7 +14,7 @@ Trying to understand little by little about Latin, the beautiful Italian languag
 <a name="introduction"></a>
 ## 1. Introduction.
 <img src="italy-spain.png" height="170"> 
-When you see the word “Romance” in regard to languages, think “Romans,” as in the ancient Roman people who spoke Latin. The 35 modern Romance languages that are considered living languages, including Spanish and Italian, are descended from the Vulgar Latin. “Vulgar” in this case means “common or everyday.” Vulgar Latin was the language of the common people, as opposed to the written Latin language used by scholars and the aristocratic class, which was called Classical Latin.<br />
+When you see the word “Romance” in regard to languages, think “Romans,” as in the ancient Roman people who spoke Latin. The 35 modern Romance languages that are considered living languages, including Spanish and Italian, are descended from the Vulgar Latin. “Vulgar” in this case means “common or everyday.” Vulgar Latin was the language of the common people, as opposed to the written Latin language used by scholars and the aristocratic class, which was called Classical Latin.<br /><br />
 
 The Roman Empire broke apart starting around the 5th century C.E. Between the 6th and 9th centuries C.E., the independent countries that developed from the former Roman Empire began to develop the individual Romance languages that became the ancestor-languages of the modern Romance languages. These modern languages include Catalan (spoken in the region of northern Spain around Barcelona), French, Italian, Portuguese, and Romanian.
 
