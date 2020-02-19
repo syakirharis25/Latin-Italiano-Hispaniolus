@@ -10,6 +10,7 @@ Trying to understand little by little about Latin, the beautiful Italian languag
 6. [Spanish.](#spanish)
 7. [Influences.](#influence)
 8. [GitHub notes.](#github)
+9. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -71,3 +72,15 @@ $ git clone https://github.com/syakirharis25/Latin-Italiano-Hispaniolus.git
 $ cd Latin-Italiano-Hispaniolus/
 $ git remote -v
 $ git status
+```
+
+<a name="calculation"></a>
+## 9. GitHub repository calculation.
+```
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Markdown                         1             17              0             45
+-------------------------------------------------------------------------------
+```
+Refer to : https://github.com/syakirharis25/cloc
